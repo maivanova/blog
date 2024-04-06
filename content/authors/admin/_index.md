@@ -7,8 +7,8 @@ first_name: Мария
 last_name: Иванова
 
 # Status emoji
-status: 💗
-  icon: 💗
+status: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
