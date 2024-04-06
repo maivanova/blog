@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Мои интересы включают прораммирование, медицину, химические науки
 
 # Interests to show in About widget
 interests:
@@ -63,12 +63,12 @@ skills:
       - name: Chemistry
         description: ''
         percent: 90
-        icon: molecula
+        icon: chemistry
         icon_pack: fas
         
   - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#5F9EA0'
+    color_border: '#ADD8E6'
     items:
       - name: Бег
         description: ''
@@ -88,7 +88,7 @@ skills:
       - name: Макияж
         description: ''
         percent: 80
-        icon: brush
+        icon: makeup
         icon_pack: fas
 
 # Social/Academic Networking
@@ -125,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Иванова Мария - студентка Российского Университета Дружбы Народов, обучается на факультете физико-математических и естественных наук. Является старостой группы, активно изучает программирование и технические науки. 
 {style="text-align: justify;"}
