@@ -25,13 +25,13 @@ organizations:
 bio: Мои интересы включают прораммирование, медицину, химические науки
 
 # Interests to show in About widget
-interests:
+Интересы:
   - Разработка
   - Изучение языков
   - Преподавание
 
 # Education to show in About widget
-education:
+Образование:
   courses:
     - course: Первая помощь
       institution: МГМУ им. Сеченова
@@ -40,7 +40,7 @@ education:
       institution: Российский университет дружбы народов им. Патриса Лумумбы
       year: 2023-2027
 
-# Skills
+# Скиллы
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Профессиональные
