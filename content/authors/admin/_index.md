@@ -26,36 +26,33 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Разработка
+  - Изучение языков
+  - Преподавание
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Первая помощь
+      institution: МГМУ им. Сеченова
+      year: 2023
+    - course: Компьютерные и информационные науки
+      institution: Российский университет дружбы народов им. Патриса Лумумбы
+      year: 2023-2027
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Профессиональные
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 30
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
-        percent: 100
+        percent: 30
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -63,24 +60,35 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+      - name: Chemistry
+        description: ''
+        percent: 90
+        icon: molecula
+        icon_pack: fas
+        
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Бег
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-running
         icon_pack: fas
-      - name: Cats
+      - name: Кошки
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Игра на гитаре
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: guitar
+        icon_pack: fas
+      - name: Макияж
+        description: ''
+        percent: 80
+        icon: brush
         icon_pack: fas
 
 # Social/Academic Networking
