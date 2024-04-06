@@ -42,7 +42,7 @@ bio: Мои интересы включают прораммирование, м
 
 # Скиллы
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+Скиллы:
   - name: Профессиональные
     items:
       - name: Python
