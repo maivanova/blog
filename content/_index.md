@@ -78,7 +78,7 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Обязанности:
 
               * Составление методических планов
               * Разработка заданий
